@@ -2,6 +2,10 @@
 
 This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
+'npm install' inside /contacts-app and /contacts-app/server
+'node server.js' inside /contacts-app/server
+'npm start' inside /contacts-app
+
 Most of the commits in this repository correspond to videos in the program.
 
 ## Project Setup
